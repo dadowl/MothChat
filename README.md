@@ -1,10 +1,8 @@
 # MothSimplePlugs
-Hi! There are some simple plugins in this repository that I use in my Minecraft project “MothQuet”. 
+Hi! There are some simple plugins in this repository that I use in my Minecraft project “<a href="vk.com/mothquiet">MothQuet</a>”. 
 <br />You can use it for your projects as you need.
-<br />They are divided into branches.
 <br />
 <br />--------
 <br />
-<br />Здравствуй! В этом репозитории есть несколько простых плагинов, которые я использую в своем проекте Minecraft «MothQuet». 
+<br />Здравствуй! В этом репозитории есть несколько простых плагинов, которые я использую в своем проекте Minecraft “<a href="vk.com/mothquiet">MothQuet</a>”. 
 <br />Вы можете использовать его для своих проектов, как вам нужно.
-<br />Они разделены на ветви.
