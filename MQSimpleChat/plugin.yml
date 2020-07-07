@@ -1,0 +1,5 @@
+name: MQSimpleChat
+main: com.fayence.mothquiet.Main
+version: 1.0
+Author: Fayence
+depend: [Vault]
